@@ -1,0 +1,11 @@
+{
+    "name": "text-to-image",
+    "version": "1.0.0",
+    "description": "AI generative images using text to image ",
+    "main": "app.py",
+    "scripts": {
+      "start": "python run.py"
+    },
+    "author": "Mia Petrusic"
+  }
+  
